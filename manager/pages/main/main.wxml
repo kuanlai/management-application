@@ -1,0 +1,53 @@
+<view class='container'>
+<view class='backgrounds'>
+<view class='items' bindtap='switchiTo' id='coursemag'>
+<!-- <view class=''><image></image></view> -->
+<view style='width:180px'><text>课程管理</text></view>
+
+<view class=''><image src='/image/toright.png'></image></view>
+</view>
+</view>
+
+<view class='backgrounds'>
+<view class='items'>
+<view style='width:180px'><text>教学日历管理</text></view>
+
+<view class=''><image src='/image/toright.png'></image></view>
+</view>
+</view>
+
+
+<view class='backgrounds' id='evaluatemag' bindtap='switchiTo'>
+<view class='items'>
+<view style='width:180px'><text>评价指标设定</text></view>
+
+<view class=''><image src='/image/toright.png'></image></view>
+</view>
+</view>
+
+<view class='backgrounds'>
+<view class='items'>
+<view style='width:180px'><text>学生管理</text></view>
+
+<view class=''><image src='/image/toright.png'></image></view>
+</view>
+</view>
+
+<view class='backgrounds'>
+<view class='items'>
+<view style='width:180px'><text>同行评价人管理</text></view>
+
+<view class=''><image src='/image/toright.png'></image></view>
+</view>
+</view>
+
+
+<view class='backgrounds'>
+<view class='items'>
+<view style='width:180px'><text>评价分析</text></view>
+
+<view class=''><image src='/image/toright.png'></image></view>
+</view>
+</view>
+
+</view>

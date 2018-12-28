@@ -1,0 +1,19 @@
+{
+  "pages":[
+   
+    "pages/main/main",
+    "pages/main/course management/coursemag",
+    "pages/main/evaluate management/evaluatemag"
+  
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "教师评教管理系统",
+    "navigationBarTextStyle":"black"
+  },
+  
+   "component": true,
+  "usingComponents": {
+  }
+}
